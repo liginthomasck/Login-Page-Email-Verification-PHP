@@ -10,12 +10,12 @@ Remember that, after downloading source files you've to create a database, table
 
 Columns name:
 
-id type int(11) auto_increment
-name type varchar(255)
-email type varchar(255)
-password type varchar(255)
-code type mediumint(50)
-status type text
+- id type int(11) auto_increment
+- name type varchar(255)
+- email type varchar(255)
+- password type varchar(255)
+- code type mediumint(50)
+- status type text
  
 ** Before pasting or working with these codes, please configure XAMPP to send Mail from Localhost in PHP because without configure the XAMPP server to send mail using PHP, you won't send mail and there is no meaning to paste these given codes. The instructions and source codes are available in https://github.com/CiyaKhan/Configure-XAMPP-To-Send-Mail
 
