@@ -17,7 +17,7 @@ Columns name:
 - code type mediumint(50)
 - status type text
  
-** Before pasting or working with these codes, please configure XAMPP to send Mail from Localhost in PHP because without configure the XAMPP server to send mail using PHP, you won't send mail and there is no meaning to paste these given codes. The instructions and source codes are available in https://github.com/CiyaKhan/Configure-XAMPP-To-Send-Mail
+** Before pasting or working with these codes, please configure XAMPP to send Mail from Localhost in PHP because without configure the XAMPP server to send mail using PHP, you won't send mail and there is no meaning to paste these given codes. The instructions and source codes are available in https://github.com/liginthomasck/Configure-XAMPP-To-Send-Mail
 
 Fixed: Users can access the Home Page from the otp-user.php and reset-code.php pages without entering the correct otp code.
 
