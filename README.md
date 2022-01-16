@@ -4,7 +4,7 @@ Login & Signup Form Email Verification Designed Using PHP, MySql, Html And CSS.
 ### NOTE: Currently rewritting the code.
 A simple Login Page written in PHP, MySql, Html and CSS Stylesheet.
 
-First, you need to create twelve files - login-user.php, signup-user.php, controllerUserData.php, user-otp.php, home.php, logout-user.php, connection.php, forgot-password.php, reset-code.php, new-password.php, password-changed.php, and style.css. You can also download all the source code files that i have uploaded https://github.com/CiyaKhan/Login-Page-Email-Verification-PHP
+First, you need to create twelve files - login-user.php, signup-user.php, controllerUserData.php, user-otp.php, home.php, logout-user.php, connection.php, forgot-password.php, reset-code.php, new-password.php, password-changed.php, and style.css. You can also download all the source code files that i have uploaded https://github.com/liginthomasck/Login-Page-Email-Verification-PHP
 
 Remember that, after downloading source files you've to create a database, table, and six columns inside the table. The name of the database must be userform, table name must be usertable, and inside this table, you've to create six columns.
 
