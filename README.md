@@ -27,4 +27,4 @@ Hereby The Login Page Designed In A Manner Particulary For The Dependencies Of T
 The Modern Applications User Interface Is Fully Deployed To Developed The Login Page.
 
 ###### Developers Support : Zanck Pvt.Ltd.
-_developers support@ ciyakhan515@gmail.com_
+_developers support @ liginthomasck@pm.me_
